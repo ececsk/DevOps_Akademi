@@ -1,4 +1,8 @@
 # DevOps_Akademi
+#### Ayşenur Sezgin 
+#### Emine Ece Coşkunçay
+
+
 Docker ile postgresql kullanarak dbye insert işlemi
 
 * Terminalde docker-compose up ile çalıştırılır.
